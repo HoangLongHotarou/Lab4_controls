@@ -1,0 +1,3 @@
+1911164^Vo Dinh Hoang Long^Nam^1/31/2001 12:00:00 AM^CTK43^0912019201^1911164@dlu.edu.vn^^E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Image\11.jpg
+1911111^Nhật Linh^Nữ^10/1/2001 12:00:00 AM^CTK43^1212121212^Unknow^Đà Lạt^E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Image\2.jpg
+1911223^Minh Như^Nữ^10/1/2001 12:00:00 AM^CTK44^1212121212^1291892@uit.edu.vn^Đà Lạt^E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Image\7.jpg

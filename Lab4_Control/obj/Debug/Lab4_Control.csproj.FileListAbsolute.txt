@@ -1,0 +1,11 @@
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\bin\Debug\Lab4_Control.exe.config
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\bin\Debug\Lab4_Control.exe
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\bin\Debug\Lab4_Control.pdb
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\obj\Debug\Lab4_Control.csproj.AssemblyReference.cache
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\obj\Debug\Lab4_Control.Form1.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\obj\Debug\Lab4_Control.Properties.Resources.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\obj\Debug\Lab4_Control.csproj.GenerateResource.cache
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\obj\Debug\Lab4_Control.csproj.CoreCompileInputs.cache
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\obj\Debug\Lab4_Control.exe
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\obj\Debug\Lab4_Control.pdb
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab4_Control\Lab4_Control\bin\Debug\Data\data.txt
