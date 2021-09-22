@@ -419,14 +419,14 @@ namespace Lab4_Control
             // removeToolStripMenuItem
             // 
             this.removeToolStripMenuItem.Name = "removeToolStripMenuItem";
-            this.removeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.removeToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
             this.removeToolStripMenuItem.Text = "Xóa";
             this.removeToolStripMenuItem.Click += new System.EventHandler(this.removeToolStripMenuItem_Click);
             // 
             // reloadDSToolStripMenuItem
             // 
             this.reloadDSToolStripMenuItem.Name = "reloadDSToolStripMenuItem";
-            this.reloadDSToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.reloadDSToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
             this.reloadDSToolStripMenuItem.Text = "Tải lại DS";
             this.reloadDSToolStripMenuItem.Click += new System.EventHandler(this.reloadDSToolStripMenuItem_Click);
             // 
@@ -440,6 +440,7 @@ namespace Lab4_Control
             this.Controls.Add(this.pbxAvatar);
             this.Name = "Form1";
             this.Text = "Thông tin";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pbxAvatar)).EndInit();
             this.groupBox1.ResumeLayout(false);

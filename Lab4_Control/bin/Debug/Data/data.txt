@@ -2,4 +2,3 @@
 1911111^Nhật Linh^Nữ^10/1/2001 12:00:00 AM^CTK43^1212121212^Unknow^Đà Lạt^E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Image\2.jpg
 1911223^Minh Như^Nữ^10/1/2001 12:00:00 AM^CTK44^1212121212^1291892@uit.edu.vn^Đà Lạt^E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Image\7.jpg
 1911121^Minh Nhi^Nữ^1/1/2001 12:00:00 AM^CTK43^0912019201^1911121@dlu.edu.vn^12 B^E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Image\9.jpg
-1911122^Nhu Nhi^Nữ^1/1/2001 12:00:00 AM^CTK43^0912019201^1923162@dlu.edu.vn^12 B^E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Image\6.jpg

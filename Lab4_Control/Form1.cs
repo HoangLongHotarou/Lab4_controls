@@ -49,14 +49,6 @@ namespace Lab4_Control
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            if (_checked)
-            {
-                var s = MessageBox.Show("Bạn có muốn lưu hem >_< (Nhấn yes để lưu O_O )", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-                if (s == DialogResult.Yes)
-                {
-                    sm.SaveList();
-                }
-            }
             Application.Exit();
         }
 
@@ -187,6 +179,22 @@ namespace Lab4_Control
             }
             LoadStudentList();
             Default();
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (_checked)
+            {
+                var s = MessageBox.Show("Bạn có muốn lưu hem >_< (Nhấn yes để lưu O_O )", "Thông báo", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question);
+                if (s == DialogResult.Cancel)
+                {
+                    e.Cancel = true;
+                }
+                if (s == DialogResult.Yes)
+                {
+                    sm.SaveList();
+                }
+            }
         }
     }
 }
